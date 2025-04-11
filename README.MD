@@ -46,14 +46,19 @@ Made with ❤️ by [br1b0b]
 
 
 <!-- 👾 HACKER STYLE GPG BADGE 💾 -->
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/COMMITS%20SIGNED-HACKER%20VERIFIED-%2300ff9f?style=for-the-badge&logo=gnupg&logoColor=black" alt="Signed with GPG 🔐">
-</p>
+  <a href="https://gnupg.org/" target="_blank">
+    <img src="https://img.shields.io/badge/COMMITS%20SIGNED-HACKER%20VERIFIED-%2300ff9f?style=for-the-badge&logo=gnupg&logoColor=black" alt="Signed with GPG 🔐">
+  </a>
 
-<p align="center" style="font-family:'Fira Code', monospace; color:#00ff9f;">
-  <strong>✍️ All commits are digitally signed using <a href="https://gnupg.org/" target="_blank" style="color:#00ff9f;">GPG</a>.</strong><br>
-  🛡️ This guarantees authenticity, trust & integrity.<br>
-  🧠 In a world full of fakes, we sign to protect what’s real.<br>
-  <code>~# git commit -S -m "Because real hackers sign their code."</code>
-</p>
+  <br><br>
+
+  <p style="font-family:'Fira Code', monospace; color:#00ff9f; font-size:14px;">
+    <strong>✍️ Todos los commits están firmados digitalmente con <a href="https://gnupg.org/" target="_blank" style="color:#00ff9f;">GPG</a></strong><br>
+    🛡️ Garantizando autenticidad, confianza e integridad.<br>
+    🧠 En un mundo lleno de falsificaciones, firmamos para proteger lo real.<br><br>
+    <code style="background:#111; padding:6px 10px; border-radius:8px;">~# git commit -S -m "Because real hackers sign their code."</code>
+  </p>
+
+</div>
