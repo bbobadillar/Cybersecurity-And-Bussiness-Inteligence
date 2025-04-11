@@ -67,20 +67,6 @@
 
 ---
 
-## 🗺️ Diagrama del Flujo
-
-![Malware Analysis Lab Diagram](sandbox:/mnt/data/A_flowchart_infographic_composed_of_four_horizonta.png)
-
----
-
-## 📥 Repositorio
-📁 **Descarga todo desde:**  
-👉 [INSERTA TU LINK DE GITHUB AQUÍ]
-
----
-
----
-
 # 🕵️ Malware Analysis Lab (GPG Signed | SSH Secured)
 
 > This lab simulates a realistic attack where malware is hidden inside a PNG image, using only native Windows tools and custom PowerShell scripts.  
