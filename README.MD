@@ -45,12 +45,15 @@ Cybersecurity-And-Bussiness-Inteligence/
 Made with ❤️ by [br1b0b]
 
 
-<p align="center">
-  <img src="https://img.shields.io/badge/GPG%20Signed-Verified-brightgreen?style=for-the-badge&logo=gnuprivacyguard&logoColor=white" alt="GPG Signed" />
-</p>
+<!-- 👾 HACKER STYLE GPG BADGE 💾 -->
 
 <p align="center">
-  ✍️ Todos los commits de este repositorio están <strong>firmados digitalmente</strong> usando <a href="https://gnupg.org/">GPG (GNU Privacy Guard)</a> para garantizar autenticidad y confianza.  
-  <br>
-  🔒 Este es un proyecto que toma la <strong>seguridad en serio</strong>.
+  <img src="https://img.shields.io/badge/COMMITS%20SIGNED-HACKER%20VERIFIED-%2300ff9f?style=for-the-badge&logo=gnupg&logoColor=black" alt="Signed with GPG 🔐">
+</p>
+
+<p align="center" style="font-family:'Fira Code', monospace; color:#00ff9f;">
+  <strong>✍️ All commits are digitally signed using <a href="https://gnupg.org/" target="_blank" style="color:#00ff9f;">GPG</a>.</strong><br>
+  🛡️ This guarantees authenticity, trust & integrity.<br>
+  🧠 In a world full of fakes, we sign to protect what’s real.<br>
+  <code>~# git commit -S -m "Because real hackers sign their code."</code>
 </p>
