@@ -1,7 +1,7 @@
 # 🧪 Usa rutas completas para evitar problemas
-$imagePath = "C:\Users\Bryan Bobadilla\Documents\Cyber_BI_Repo\Cyber_BI_Repo\Cybersecurity\Automations\HexDump_PowerShell_Automation\Laboratory\IMG1.png"        # ⬅️ REEMPLAZA
-$scriptPath = "C:\Users\Bryan Bobadilla\Documents\Cyber_BI_Repo\Cyber_BI_Repo\Cybersecurity\Automations\HexDump_PowerShell_Automation\Laboratory\M4LW4R3.bat"
-$outputImage = "C:\Users\Bryan Bobadilla\Documents\Cyber_BI_Repo\Cyber_BI_Repo\Cybersecurity\Automations\HexDump_PowerShell_Automation\Laboratory\imagen_embebida.png"
+$imagePath = "PUT YOUR FOLDER\IMG1.png"        # ⬅️ REEMPLAZA
+$scriptPath = "PUT YOUR FOLDER\M4LW4R3.bat"
+$outputImage = "PUT YOUR FOLDER\imagen_embebida.png"
 
 # 📥 Leer bytes de la imagen y del script
 $imageBytes = Get-Content $imagePath -Encoding Byte
