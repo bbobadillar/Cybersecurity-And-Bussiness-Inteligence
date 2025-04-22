@@ -18,3 +18,4 @@ for ($i = 0; $i -lt $bytes.Length; $i += 16) {
 $lines | Out-File -Encoding ASCII -FilePath $outputPath
 
 Write-Host "`n📄 Hex dump generado: $outputPath" -ForegroundColor Cyan
+
