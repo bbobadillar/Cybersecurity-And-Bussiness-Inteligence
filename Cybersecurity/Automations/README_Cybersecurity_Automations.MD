@@ -24,3 +24,5 @@ In this section, we explore how to leverage native Windows tools and common scri
 These automations provide blue teamers with forensic insights and red teamers with creative simulation strategies.
 
 > 🔍 Stay stealthy, but stay ethical. 💻🛡️
+
+

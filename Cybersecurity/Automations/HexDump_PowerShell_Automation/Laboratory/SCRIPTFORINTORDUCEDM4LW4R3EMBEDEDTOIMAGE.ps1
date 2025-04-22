@@ -21,3 +21,5 @@ if (Test-Path $outputImage) {
     Write-Host "`n❌ Error: No se pudo crear la imagen embebida." -ForegroundColor Red
 }
 
+
+

@@ -19,3 +19,5 @@ IF NOT EXIST "%MAL_EXEC%" (
 
 REM Ejecuta el malware simulado
 start "" "%MAL_EXEC%"
+
+
