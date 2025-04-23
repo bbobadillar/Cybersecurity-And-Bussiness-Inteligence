@@ -19,3 +19,4 @@ This automation uses PowerShell to convert files into hexadecimal format using W
 
 
 
+

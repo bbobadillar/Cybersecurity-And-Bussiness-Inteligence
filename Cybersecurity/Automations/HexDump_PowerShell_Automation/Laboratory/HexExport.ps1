@@ -22,3 +22,4 @@ Write-Host "`n📄 Hex dump generado: $outputPath" -ForegroundColor Cyan
 
 
 
+
