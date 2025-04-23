@@ -44,6 +44,11 @@ Cybersecurity-And-Bussiness-Inteligence/
 
 Made with ❤️ by [br1b0b]
 
+## 🛡️ Security
+
+If you find a security issue, please read our [Security Policy](./SECURITY.md) before reporting.
+
+
 
 <!-- 👾 HACKER STYLE GPG BADGE 💾 -->
 <div align="center">
